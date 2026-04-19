@@ -70,5 +70,4 @@ This project analyzes customer orders, pricing, discounts, ratings, returns, and
 - Shipping time shows a measurable relationship with returns
 - Return behavior varies by location more than by device/payment method
 
-## Dataset Link
-https://www.kaggle.com/datasets/sharmajicoder/amazon-e-commerce/data
+## Dataset Link: https://www.kaggle.com/datasets/sharmajicoder/amazon-e-commerce/data
